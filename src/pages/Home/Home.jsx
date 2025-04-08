@@ -2,7 +2,7 @@ import React from 'react';
 import Banner from './Banner';
 import Categories from './Categories';
 import HeroSection from './HeroSection'
-import TrendingProducts from '../Shop/TrendingProducts';
+import TrendingProducts from '../shop/TrendingProducts';
 import DealSection from './DealSection';
 import ProBanner from './ProBanner';
 import Blogs from '../blogs/Blogs';

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link, useNavigate } from 'react-router-dom';
-import Cartmodel from '../pages/Shop/Cartmodel';
+import Cartmodel from '../pages/shop/Cartmodel';
 import { useLogoutUserMutation } from '../redux/features/auth/authApi';
 import { logout } from '../redux/features/auth/authSlice';
 import avatarImg from '../assets/avatar.png';

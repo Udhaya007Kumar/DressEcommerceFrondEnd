@@ -4,8 +4,8 @@ import Footer from './components/Footer';
 import Home from './pages/Home/Home';
 import CategoryPage from './pages/category/CategoryPage';
 import Search from './pages/search/Search';
-import ShopPage from './pages/Shop/ShopPage';
-import SingleProduct from './pages/Shop/productDetails/SingleProduct';
+import ShopPage from './pages/shop/ShopPage';
+import SingleProduct from './pages/shop/productDetails/SingleProduct';
 import Login from './components/Login';
 import Register from './components/Register';
 
